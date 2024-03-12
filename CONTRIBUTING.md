@@ -1,1 +1,1 @@
-Toc contribute to this project, fork and clone then add to the script.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
